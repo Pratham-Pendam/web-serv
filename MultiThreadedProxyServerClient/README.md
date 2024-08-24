@@ -53,7 +53,10 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 - As this code can only be run in Linux Machine and I have Windows. I used  Virtual Machine(Hyper-v) to run Ububtu. 
 
 ## Demo
-![]("https://github.com/Pratham-Pendam/web-serv/blob/main/MultiThreadedProxyServerClient/pics/web.png")
-- When website is opened for the first time (`url not found`) then cache will be miss.
+![cache](https://github.com/user-attachments/assets/48b78d56-8431-46b7-a4a7-f50fe6693862)
+
+
+![web](https://github.com/user-attachments/assets/f411d42b-6f0a-4748-a8b9-d9575a7a485f)
+- When website is opened for thefirst time (`url not found`) then cache will be miss.
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
 
