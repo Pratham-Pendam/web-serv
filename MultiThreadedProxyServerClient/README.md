@@ -54,7 +54,6 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 
 ## Demo
 ![]("https://github.com/Pratham-Pendam/web-serv/blob/main/MultiThreadedProxyServerClient/pics/cache.png?raw=true")
-![]("C:\Users\pratham\Webserver\MultiThreadedProxyServerClient\pics\cache.png")
 - When website is opened for the first time (`url not found`) then cache will be miss.
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
 
